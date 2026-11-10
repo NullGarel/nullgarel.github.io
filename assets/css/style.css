@@ -23,14 +23,13 @@ img {
 }
 
 .clickable {
-    background-color: rgb(247, 160, 79);
+    background-color: #be4a2f;
     padding: 8pt;
-    border-radius: 15pt;
-
+    text-decoration: none;
 }
 
 .clickable:hover {
-    background-color: red;
+    background-color: #d77643;
     transition: 0.25s
 }
 
@@ -55,7 +54,7 @@ img {
 }
 
 body {
-    background: #083F81;
+    background: #5a6988;
     display: flex;
     flex-direction: row;
 }
@@ -64,8 +63,8 @@ body {
     position: fixed;
     height: 100vh;
     width: 250px;
-    background: #0B56B1;
-    border-top-right-radius: 50px;
+    background: #262b44;
+    border-right: 4px #3a4466 solid;
     animation: navAnim 0.5s linear;
 }
 
@@ -109,8 +108,8 @@ body {
     flex-direction: row;
     width: 100%;
     height: auto;
-    background: linear-gradient(to right, #b7f4ff5d, #a6fffb7c);
-    border-radius: 20px;
+    background-color: #3a4466;
+    border: 4px #262b44 solid;
     overflow-y: auto;
     margin-bottom: 20px;
     animation: flopAnim .5s linear;
@@ -134,7 +133,8 @@ body {
 }
 
 .post-description {
-    padding: 8pt;
+    padding-left: 8pt;
+    padding-bottom: 8pt;
 }
 
 .post-title {
