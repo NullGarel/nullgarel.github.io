@@ -133,6 +133,10 @@ body {
     padding: 20px;
 }
 
+.post-description {
+    padding: 8pt;
+}
+
 .post-title {
     font-size: 30px;
     padding: 20px;
