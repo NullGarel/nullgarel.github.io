@@ -4,11 +4,11 @@
         "badges": [
             "desktop"
         ],
-        "content": "Em breve... Jogo multijogador levemente parecido com minecraft porém com física.",
-        "thumbnail": "https://raw.githubusercontent.com/TheGBO/SandboxnatorReinassanceGodot/refs/heads/main/Assets/Textures/icon.png",
+        "content": "Sandboxnator é um jogo experimental 3d multiplayer de construção em desenvolvimento.",
+        "thumbnail": "https://raw.githubusercontent.com/NullGarel/SandboxnatorReinassanceGodot/refs/heads/main/Assets/Textures/icon.png",
         "button": {
-            "text": "Em breve...",
-            "url": ""
+            "text": "Repositório do projeto",
+            "url": "https://github.com/NullGarel/SandboxnatorReinassanceGodot/"
         }
     },
     {
@@ -18,10 +18,10 @@
             "web"
         ],
         "content": "Jogo de plataforma.",
-        "thumbnail": "https://raw.githubusercontent.com/TheGBO/worminhoca/refs/heads/main/assets/worminhocalogo.png",
+        "thumbnail": "https://raw.githubusercontent.com/NullGarel/worminhoca/refs/heads/main/assets/worminhocalogo.png",
         "button": {
             "text": "Jogar",
-            "url": "https://thegbo.itch.io/worminhoca"
+            "url": "https://nullgarel.itch.io/worminhoca"
         }
     },
     {
@@ -46,7 +46,7 @@
         "thumbnail": "/assets/img/thew.png",
         "button": {
             "text": "Jogar",
-            "url": "https://thegbo.github.io/PressTheKey/"
+            "url": "https://nullgarel.github.io/PressTheKey/"
         }
     },
     {
@@ -57,10 +57,10 @@
             "desktop"
         ],
         "content": "Continuação do jogo Whack a div, que nessa versão deveria se chamar whack a canvas.",
-        "thumbnail": "https://github.com/TheGBO/whack-a-div-2/blob/main/favicon.png?raw=true",
+        "thumbnail": "https://github.com/NullGarel/whack-a-div-2/blob/main/favicon.png?raw=true",
         "button": {
             "text": "Jogar",
-            "url": "https://thegbo.github.io/whack-a-div-2/"
+            "url": "https://nullgarel.github.io/whack-a-div-2/"
         }
     },
     {

@@ -6,17 +6,17 @@
         "thumbnail": "/assets/img/drawscr.png",
         "button": {
             "text": "Testar",
-            "url": "https://thegbo.github.io/WebDrawJS/"
+            "url": "https://nullgarel.github.io/WebDrawJS/"
         }
     },
     {
         "title": "Macaco",
         "badges": [],
         "content": "Macaco.",
-        "thumbnail": "https://thegbo.github.io/macaco/img/idle-monkey.jpg",
+        "thumbnail": "https://nullgarel.github.io/macaco/img/idle-monkey.jpg",
         "button": {
             "text": "Macacar",
-            "url": "https://thegbo.github.io/macaco/"
+            "url": "https://nullgarel.github.io/macaco/"
         }
     },
     {
@@ -26,7 +26,7 @@
         "thumbnail": "/assets/img/lowresnator.png",
         "button": {
             "text": "Testar",
-            "url": "https://thegbo.github.io/Lowresnator/"
+            "url": "https://nullgarel.github.io/Lowresnator/"
         }
     }
 ]
